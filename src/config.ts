@@ -1,0 +1,1 @@
+export const API_URL = 'https://staffing-portal-backend.herokuapp.com';
